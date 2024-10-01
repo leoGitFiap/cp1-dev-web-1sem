@@ -16,11 +16,18 @@ console.log(valor3)
 
 let varString = "6541.968"
 console.log(varString)
-console.log(parseFloat(varString));
+console.log(parseFloat(varString))
+console.log(typeof (parseFloat(varString)))
 
 //3)
 
+let varInt = 876565
+console.log(varInt)
+console.log(parseFloat(varInt))
+console.log(typeof (parseFloat(varInt)))
 
 //4)
+
+
 //5)
 //6)
