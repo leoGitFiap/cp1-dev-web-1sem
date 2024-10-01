@@ -28,6 +28,10 @@ console.log(typeof (parseFloat(varInt)))
 
 //4)
 
+let varFloat = 3564.1385
+console.log(varFloat)
+console.log(parseInt(varFloat))
+console.log(typeof (parseInt(varFloat)))
 
 //5)
 //6)
