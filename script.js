@@ -34,4 +34,12 @@ console.log(parseInt(varFloat))
 console.log(typeof (parseInt(varFloat)))
 
 //5)
-//6)
+
+let nome = "Wladimir Henrique Freitas"
+let idade = 72
+let email = "rm999999@fiap.com.br"
+let telefone = 11948153674
+console.log(nome)
+console.log(idade)
+console.log(email)
+console.log(telefone)
